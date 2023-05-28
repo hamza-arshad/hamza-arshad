@@ -4,7 +4,7 @@ I'm a Full Stack Developer with expertise in various technologies and a passion 
 ## 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,react,vue,nuxtjs,nextjs,html5,css3,mysql,postgres,tailwind,redis,kubernetes,docker,windicss,mongodb,grafana,jenkins,aws,tensorflow,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,react,vue,nuxtjs,nextjs,html,css,mysql,postgres,tailwind,redis,kubernetes,docker,windicss,mongodb,grafana,jenkins,aws,tensorflow,firebase&perline=12" />
   </a>
 </p>
 
@@ -18,17 +18,19 @@ I'm enthusiastic about collaborating on open-source projects, innovative web app
 While I possess expertise in many areas, I'm always open to learning and seeking guidance. I'm particularly interested in exploring new frontiers in machine learning 🤖 and data science within the realm of full-stack development.
 
 ## 📫 Get in Touch
-<a href="mailto:sheikh.hamza.arshad@gmail.com">
+<div>
+  <a href="mailto:sheikh.hamza.arshad@gmail.com">
     <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
-</a>
+  </a>
 
-<a href="https://www.linkedin.com/in/hamzaarshad">
+  <a href="https://www.linkedin.com/in/hamzaarshad">
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
-</a>
+  </a>
 
-<a href="https://www.instagram.com/sh3ikh00/">
+  <a href="https://www.instagram.com/sh3ikh00/">
     <img height="32" align="left" alt="Instagram" src="icons/instagram.png" />
-</a>
+  </a>
+</div>
 
 ## 😄 Pronouns: He/Him
 
