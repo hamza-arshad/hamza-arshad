@@ -32,7 +32,8 @@ While I possess expertise in many areas, I'm always open to learning and seeking
   </a>
 </div>
 
-## 😄 Pronouns: He/Him
+## 😄 Pronouns:
+He/Him
 
 ## ⚡ Fun Fact:
 In my free time, I enjoy reading fiction novels 📚, and I'm a huge fan of Brandon Sanderson and his work in the Cosmere universe. Exploring fantastical worlds and intricate storytelling is a passion that complements my love for coding.
