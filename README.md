@@ -18,7 +18,7 @@ I'm enthusiastic about collaborating on open-source projects, innovative web app
 While I possess expertise in many areas, I'm always open to learning and seeking guidance. I'm particularly interested in exploring new frontiers in machine learning 🤖 and data science within the realm of full-stack development.
 
 ## 📫 Get in Touch
-<div>
+<p>
   <a href="mailto:sheikh.hamza.arshad@gmail.com">
     <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
   </a>
@@ -30,7 +30,7 @@ While I possess expertise in many areas, I'm always open to learning and seeking
   <a href="https://www.instagram.com/sh3ikh00/">
     <img height="32" align="left" alt="Instagram" src="icons/instagram.png" />
   </a>
-</div>
+</p>
 
 ## 😄 Pronouns:
 He/Him
