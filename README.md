@@ -11,7 +11,7 @@ I'm a Full Stack Developer with expertise in various technologies and a passion 
 ## 🌱 Continuous Learning
 I'm constantly expanding my knowledge and skills in emerging technologies and frameworks. Currently, I'm delving into cloud computing ☁️ and deepening my proficiency in various AWS services.
 
-## 👯 Collaboration Opportunities
+## 🤝 Collaboration Opportunities
 I'm enthusiastic about collaborating on open-source projects, innovative web applications, and challenging software development initiatives. Joining forces with like-minded developers to create impactful solutions and contribute to the developer community is something I actively seek.
 
 ## 🤔 Seeking Guidance
