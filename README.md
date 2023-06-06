@@ -4,7 +4,7 @@ I'm a Full Stack Developer with expertise in various technologies and a passion 
 ## 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,react,vue,nuxtjs,nextjs,html,css,mysql,postgres,tailwind,redis,kubernetes,docker,windicss,mongodb,grafana,jenkins,aws,tensorflow,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,react,vue,nuxtjs,nextjs,html,css,mysql,postgres,tailwind,redis,kubernetes,docker,windicss,mongodb,grafana,jenkins,aws,nestjs,firebase&perline=12" />
   </a>
 </p>
 
